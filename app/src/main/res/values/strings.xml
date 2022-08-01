@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">課題</string>
+    <string-array name="lv_country">
+        <item>ドイツ</item>
+        <item>スペイン</item>
+        <item>ベルギー</item>
+        <item>イングランド</item>
+        <item>オランダ</item>
+        <item>ポルトガル</item>
+        <item>ブラジル</item>
+        <item>アルゼンチン</item>
+        <item>ガーナ</item>
+        <item>日本</item>
+        <item>韓国</item>
+        <item>カタール</item>
+        <item>ポーランド</item>
+        <item>クロアチア</item>
+        <item>ウェールズ</item>
+    </string-array>
+</resources>
